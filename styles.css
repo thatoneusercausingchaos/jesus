@@ -1,4 +1,4 @@
-body, pre, p {
+body, pre {
   font-family: "Comic Sans MS";
   text-align: center;
 }
@@ -6,10 +6,6 @@ body, pre, p {
 a:link, a:visited {
   color: #0000ee;
   text-decoration: none;
-}
-
-.space {
-  line-height: 2.0;
 }
 
 pre {
