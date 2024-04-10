@@ -1,7 +1,7 @@
 body, pre {
   font-family: "Comic Sans MS";
-  padding: 10px;
   text-align: center;
+  padding: 25px;
 }
 
 a:link, a:visited {
@@ -12,4 +12,12 @@ a:link, a:visited {
 pre {
   white-space: pre-wrap;
   line-height: 1.5;
+  font-size: 16px;
+}
+
+.border {
+  border: solid 3px;
+  padding: 10px;
+  width: 500px;
+  margin: auto;
 }
