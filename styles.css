@@ -23,6 +23,7 @@ html, body {
   cursor: pointer;
   margin: auto;
   margin-bottom: 20px;
+  font-family: Arial,Sans-Serif;
 }
 
 .button:hover {
